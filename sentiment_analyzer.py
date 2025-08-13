@@ -4,7 +4,7 @@ AI Sentiment Analysis Project
 A complete machine learning project for analyzing sentiment in text reviews.
 Features: Data preprocessing, model training, evaluation, and web interface.
 
-Author: AI Assistant
+Author: ME, not the ai assistant
 Date: 2025
 """
 
@@ -598,4 +598,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
