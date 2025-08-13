@@ -107,8 +107,6 @@ print(prediction, confidence)
 📌 Command-Line Predictions:
 
 matlab
-Copy
-Edit
 😊 [POSITIVE - 98.50%]: This movie is absolutely fantastic! I loved every minute of it.
 😞 [NEGATIVE - 95.12%]: Terrible film with poor acting and boring plot.
 😊 [POSITIVE - 73.45%]: Not bad, but could be better. Average movie overall.
@@ -121,9 +119,7 @@ Top positive & negative words identified by the model
 
 Distribution of confidence scores across predictions
 
-📌 Web App (Streamlit):
-
-(Example GIF — replace with your own)
+📌 Web App (Streamlit)
 
 📈 Visualizations
 Confusion Matrix
